@@ -1,0 +1,20 @@
+<XenosConfig>
+	<imagePath>C:\Nordic One\CS2\Internal\Nordic One Internal.dll</imagePath>
+	<manualMapFlags>69636</manualMapFlags>
+	<procName>UNKNOWN</procName>
+	<hijack>0</hijack>
+	<unlink>0</unlink>
+	<erasePE>0</erasePE>
+	<close>1</close>
+	<krnHandle>0</krnHandle>
+	<injIndef>0</injIndef>
+	<processMode>2</processMode>
+	<injectMode>1</injectMode>
+	<delay>80000</delay>
+	<period>0</period>
+	<skip>0</skip>
+	<procCmdLine/>
+	<initRoutine/>
+	<initArgs/>
+</XenosConfig>
+
